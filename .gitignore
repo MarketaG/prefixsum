@@ -1,0 +1,7 @@
+# zkompilovane binarky
+pps
+*.o
+*.exe
+
+# macOS
+.DS_Store
